@@ -1,5 +1,5 @@
 # Toy Problems
-
+## DATE:2024/3/24
 This repository contains solutions to three toy problems in JavaScript.
 
 ## Author
